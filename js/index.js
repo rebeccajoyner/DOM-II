@@ -8,7 +8,7 @@ mouseEvent.addEventListener("mouseover", function(event) {
     setTimeout(function() {
         event.target.style.color = "#ff9900";
     }, 900);
-}, false);
+});
 
 
 
