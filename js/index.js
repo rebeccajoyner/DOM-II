@@ -3,7 +3,7 @@
 
 const mouseEvent = document.querySelector("nav");
 mouseEvent.addEventListener("mouseover", function(event) {
-    event.target.style.color = "#30f247";
+    event.target.style.color = "#31b0f5";
 
     setTimeout(function() {
         event.target.style.color = "#ff9900";
