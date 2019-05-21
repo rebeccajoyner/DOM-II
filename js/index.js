@@ -6,8 +6,8 @@ mouseEvent.addEventListener("mouseover", function(event) {
     event.target.style.color = "#30f247";
 
     setTimeout(function() {
-        event.target.style.color = "";
-    }, 400);
+        event.target.style.color = "#ff9900";
+    }, 900);
 }, false);
 
 
@@ -33,4 +33,5 @@ function randomColor() {
 body.onclick = function() {
   body.style.backgroundColor = randomColor();
 };
+
 
