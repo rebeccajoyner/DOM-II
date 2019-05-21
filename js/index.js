@@ -2,10 +2,12 @@
 
 
 const mouseEvent = document.querySelector("nav");
-mouseEvent.addEventListener.addEventListener("mouseover", function (event) {
-    event.target.style.color = '#30f247';
+mouseEvent.addEventListener("mouseover", function(event) {
+    event.target.style.color = "#30f247";
 
-    setTimeout(function () {
+    setTimeout(function() {
         event.target.style.color = "";
     }, 400);
 }, false);
+
+
