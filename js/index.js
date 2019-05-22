@@ -20,6 +20,8 @@ Elan.addEventListener('wheel', event => {
 
 
 
+const wordColor = document.querySelector('body');
+
 const body = document.querySelector('body');
 
 function random(number) {
@@ -31,7 +33,6 @@ function randomColor() {
 }
 
 body.onclick = function() {
-  body.style.backgroundColor = randomColor();
+    body.style.backgroundColor = randomColor();
+    wordColor.style.color = randomColor();
 };
-
-
