@@ -14,7 +14,7 @@ mouseEvent.addEventListener("mouseover", function(event) {
 
 const Elan = document.querySelector("body");
 Elan.addEventListener('wheel', event => {
-    alert(event.textContent='Elan is the best *but dont be like Elan')
+    alert(event.textContent='Most annoying popup.')
 });
 
 
