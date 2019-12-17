@@ -1,3 +1,5 @@
+[![codebeat badge](https://codebeat.co/badges/47a65d18-ac63-47ce-8657-92102b7f9458)](https://codebeat.co/projects/github-com-rebeccajoyner-dom-ii-rebecca-joyner)
+
 # DOM II - Event Exploration
 
 Fun Bus wants you to make their site more interactive. They are relying on you to provide 10 unique events to enhance their site. Explore the many events available to you by using the [MDN events reference](https://developer.mozilla.org/en-US/docs/Web/Events).
@@ -57,6 +59,3 @@ Using the 10 unique events, find ways to update the DOM in creative ways. For ex
 ## Stretch assignment
 
 * [ ] Take a look at the [stretch assignment](stretch-assignment) and follow the instructions in the read me file.
-
-
-[![codebeat badge](https://codebeat.co/badges/47a65d18-ac63-47ce-8657-92102b7f9458)](https://codebeat.co/projects/github-com-rebeccajoyner-dom-ii-rebecca-joyner)
